@@ -63,11 +63,107 @@ Schuller, Gunther. "Thelonious Monk," and "Sonny Rollins and Thematic Improvisin
 Listening
 ---------
 
-| SES # | LECTURE TOPICS | LISTENING |
-| --- | --- | --- |
-| Lec 8 | "Kind of Blue" (Miles Davis) | Davis, Miles. _Kind of Blue_. Sony / Columbia Records. Originally released in 1959. |
-| Lec 9 | "In a Silent Way" (Miles Davis) | Davis, Miles. _In a Silent Way_. Sony / Columbia Records. Originally released in 1969. |
-| Lec10-11 | Guest artist / lecturers: Phil Scarff and Chitravina Ravikiran | Natraj. _Deccan Dance_. Galloping Goat, 1998. Listen to 2 or 3 tracks. |
-| Lec17-18 | Flexology |  {{< br >}}{{< br >}} Aardvark Jazz Orchestra. "Flexology." _Trumpet Madness_. Leo Records, 2005. {{< br >}}{{< br >}} Morris, Butch. _Conduction #41_. Vol. 10 in _Testament: A Conduction Collection_. New World Records, 1995. {{< br >}}{{< br >}} *   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Liner notes (PDF)](https://nwr-site-liner-notes.s3.amazonaws.com/80487.pdf) {{< br >}}{{< br >}} Soundpainting with Walter Thompson: OCW videos from _21M.342 Composing for Jazz Orchestra_ {{< br >}}{{< br >}} *   [Classroom workshop](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/pages/video-and-audio-classes/lecture-21){{< br >}}*   [MIT Festival Jazz Orchestra workshop](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/pages/video-and-audio-classes/event-10){{< br >}}*   [Aardvark Jazz Orchestra concert](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/pages/video-and-audio-classes/spring-2009-event) {{< br >}}{{< br >}}  |
-| Lec 19 | Themes & Intervals: "Blue Seven" (Sonny Rollins) | Rollins, Sonny. "Blue 7." _Saxophone Collosus_. Prestige / Fantasy Records. Originally released in 1956. |
-| Lec 22-23 | Guest artist / lecturers: Tim Ray, Eugene Friesen, and Greg Hopkins (Tre Corda) | Tre Corda. _Tre Corda_. Agitated Cat Music, 2002. Listen to 2 or 3 tracks.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+LECTURE TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LISTENING
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 8
+{{< tdclose >}}
+{{< tdopen >}}
+"Kind of Blue" (Miles Davis)
+{{< tdclose >}}
+{{< tdopen >}}
+Davis, Miles. _Kind of Blue_. Sony / Columbia Records. Originally released in 1959.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 9
+{{< tdclose >}}
+{{< tdopen >}}
+"In a Silent Way" (Miles Davis)
+{{< tdclose >}}
+{{< tdopen >}}
+Davis, Miles. _In a Silent Way_. Sony / Columbia Records. Originally released in 1969.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec10-11
+{{< tdclose >}}
+{{< tdopen >}}
+Guest artist / lecturers: Phil Scarff and Chitravina Ravikiran
+{{< tdclose >}}
+{{< tdopen >}}
+Natraj. _Deccan Dance_. Galloping Goat, 1998. Listen to 2 or 3 tracks.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec17-18
+{{< tdclose >}}
+{{< tdopen >}}
+Flexology
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Aardvark Jazz Orchestra. "Flexology." _Trumpet Madness_. Leo Records, 2005.
+
+Morris, Butch. _Conduction #41_. Vol. 10 in _Testament: A Conduction Collection_. New World Records, 1995.
+
+*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Liner notes (PDF)](https://nwr-site-liner-notes.s3.amazonaws.com/80487.pdf)
+
+Soundpainting with Walter Thompson: OCW videos from _21M.342 Composing for Jazz Orchestra_
+
+*   [Classroom workshop](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/pages/video-and-audio-classes/lecture-21)
+*   [MIT Festival Jazz Orchestra workshop](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/pages/video-and-audio-classes/event-10)
+*   [Aardvark Jazz Orchestra concert](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/pages/video-and-audio-classes/spring-2009-event)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 19
+{{< tdclose >}}
+{{< tdopen >}}
+Themes & Intervals: "Blue Seven" (Sonny Rollins)
+{{< tdclose >}}
+{{< tdopen >}}
+Rollins, Sonny. "Blue 7." _Saxophone Collosus_. Prestige / Fantasy Records. Originally released in 1956.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 22-23
+{{< tdclose >}}
+{{< tdopen >}}
+Guest artist / lecturers: Tim Ray, Eugene Friesen, and Greg Hopkins (Tre Corda)
+{{< tdclose >}}
+{{< tdopen >}}
+Tre Corda. _Tre Corda_. Agitated Cat Music, 2002. Listen to 2 or 3 tracks.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

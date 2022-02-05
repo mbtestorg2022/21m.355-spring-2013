@@ -12,48 +12,551 @@ Lab = Lab
 Guest = Guest artist lecture / workshop  
 Concert = Concert series event
 
-| SES # | TOPICS AND VIDEO LINKS | KEY DATES |
-| --- | --- | --- |
-| Lec 1 | Overview and auditions | &nbsp; |
-| Lec 2 | Introduction and concepts | &nbsp; |
-| Lec 3 | Images and Imagination: Film and John Cage | &nbsp; |
-| Lab 1 | [Lab 1: Introduction]({{< baseurl >}}/resources/lab-1-introduction) | &nbsp; |
-| Lec 4 | Graphic notation and improvisation | Assignment 1 due |
-| Guest 1.1 | Improvising with film  {{< br >}}Guest artists: Kate Matson and FiLmprov | &nbsp; |
-| Lab 2 | Lab | &nbsp; |
-| Concert 1 | [Concert series: FiLmprov](./resolveuid/77c06d4117c15761ad1b150dd574cbbb) | &nbsp; |
-| Guest 1.2 | Improvising with film  {{< br >}}Guest artists: Kate Matson & FiLmprov | Assignment 2 due |
-| Lec 5 | Modes and Forms | &nbsp; |
-| Lab 3 | Lab | &nbsp; |
-| Lec 6 | "Kind of Blue" (Miles Davis) | &nbsp; |
-| Lec 7 | ["In a Silent Way" (Miles Davis)]({{< baseurl >}}/resources/lecture-7) | Assignment 3 due |
-| Lab 4 | Lab | &nbsp; |
-| Concert 2 |  {{< br >}}{{< br >}} [Concert series: Natraj and Chitravina Ravikiran](./resolveuid/5d9160f7842c14f1ea87815c5faf7f9f) {{< br >}}{{< br >}}  | &nbsp; |
-| Guest 2.1 |  {{< br >}}{{< br >}} [Indian classical music]({{< baseurl >}}/resources/guest-artist-workshop-2-1)  {{< br >}}Guest Lecturer: Phil Scarff and Chitravina Ravikiran {{< br >}}{{< br >}}  | &nbsp; |
-| Lec 8 | Sounds and Processes | &nbsp; |
-| Lab 5 | Lab | &nbsp; |
-| Guest 2.2 | [Indian classical music student demonstrations]({{< baseurl >}}/resources/guest-artist-workshop-2-2)  {{< br >}}Guest artist: Phil Scarff | Assignment 4 due |
-| Lec 9 | Mid-Term Summary | &nbsp; |
-| Lab 6 | Lab | &nbsp; |
-| Guest 3.1 | [Electronics]({{< baseurl >}}/resources/guest-artist-workshop-3-1)  {{< br >}}Guest artist: Neil Leonard | &nbsp; |
-| Lec 10 | Sounds & Processes | &nbsp; |
-| Lab 7 | Lab | &nbsp; |
-| Concert 3 | [Concert series: Neil Leonard and Robin Eubanks](./resolveuid/7c834f66e5e4bed51aebc96db67c8fe0) | &nbsp; |
-| Guest 3.2 | [Electronics student demonstrations]({{< baseurl >}}/resources/guest-artist-workshop-3)  {{< br >}}Guest artist: Neil Leonard | Assignment 5 due |
-| Lec 11 | Flexology | &nbsp; |
-| Lab 8 | Lab | &nbsp; |
-| Lec 12 | [Flexology student demonstrations]({{< baseurl >}}/resources/lecture-12) | Assignment 6 due |
-| &nbsp; | MIT concert: Aardvark Jazz Orchestra, plus Tom Hall and the 21M.355 class | &nbsp; |
-| Lec 13 | Themes and intervals: "Blue Seven" (Sonny Rollins) | &nbsp; |
-| Lec 14 | Themes and intervals | Assignment 7 due |
-| Lab 9 | Lab | &nbsp; |
-| &nbsp; | MIT concert: MIT Festival Jazz Ensemble | &nbsp; |
-| Lec 15 | Toward the final project: overview and design | &nbsp; |
-| Guest 4.1 | [Guest artists: Tim Ray and Eugene Friesen]({{< baseurl >}}/resources/guest-artist-workshop-4-1) | &nbsp; |
-| Lab 10 | Lab | &nbsp; |
-| Concert 4 | [Concert series: Tre Corda](./resolveuid/95b5fa537e719ad3675fe48e10b48f4a) | &nbsp; |
-| Guest 4.2 | [Guest artists: Tim Ray and Greg Hopkins]({{< baseurl >}}/resources/guest-artist-workshop-4-2) | Assignment 8 due |
-| Lec 16 | Preparation for final projects | &nbsp; |
-| Lab 11 | Lab | &nbsp; |
-| Lec 17 | Final projects | Presentations in class |
-| Lec 18 | Final projects | Presentations in class
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS AND VIDEO LINKS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 1
+{{< tdclose >}}
+{{< tdopen >}}
+Overview and auditions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and concepts
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 3
+{{< tdclose >}}
+{{< tdopen >}}
+Images and Imagination: Film and John Cage
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 1
+{{< tdclose >}}
+{{< tdopen >}}
+[Lab 1: Introduction]({{< baseurl >}}/resources/lab-1-introduction)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 4
+{{< tdclose >}}
+{{< tdopen >}}
+Graphic notation and improvisation
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Guest 1.1
+{{< tdclose >}}
+{{< tdopen >}}
+Improvising with film  
+Guest artists: Kate Matson and FiLmprov
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 2
+{{< tdclose >}}
+{{< tdopen >}}
+Lab
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Concert 1
+{{< tdclose >}}
+{{< tdopen >}}
+[Concert series: FiLmprov](./resolveuid/77c06d4117c15761ad1b150dd574cbbb)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Guest 1.2
+{{< tdclose >}}
+{{< tdopen >}}
+Improvising with film  
+Guest artists: Kate Matson & FiLmprov
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 5
+{{< tdclose >}}
+{{< tdopen >}}
+Modes and Forms
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 3
+{{< tdclose >}}
+{{< tdopen >}}
+Lab
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 6
+{{< tdclose >}}
+{{< tdopen >}}
+"Kind of Blue" (Miles Davis)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 7
+{{< tdclose >}}
+{{< tdopen >}}
+["In a Silent Way" (Miles Davis)]({{< baseurl >}}/resources/lecture-7)
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 4
+{{< tdclose >}}
+{{< tdopen >}}
+Lab
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Concert 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Concert series: Natraj and Chitravina Ravikiran](./resolveuid/5d9160f7842c14f1ea87815c5faf7f9f)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Guest 2.1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Indian classical music]({{< baseurl >}}/resources/guest-artist-workshop-2-1)  
+Guest Lecturer: Phil Scarff and Chitravina Ravikiran
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 8
+{{< tdclose >}}
+{{< tdopen >}}
+Sounds and Processes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 5
+{{< tdclose >}}
+{{< tdopen >}}
+Lab
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Guest 2.2
+{{< tdclose >}}
+{{< tdopen >}}
+[Indian classical music student demonstrations]({{< baseurl >}}/resources/guest-artist-workshop-2-2)  
+Guest artist: Phil Scarff
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 9
+{{< tdclose >}}
+{{< tdopen >}}
+Mid-Term Summary
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 6
+{{< tdclose >}}
+{{< tdopen >}}
+Lab
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Guest 3.1
+{{< tdclose >}}
+{{< tdopen >}}
+[Electronics]({{< baseurl >}}/resources/guest-artist-workshop-3-1)  
+Guest artist: Neil Leonard
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 10
+{{< tdclose >}}
+{{< tdopen >}}
+Sounds & Processes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 7
+{{< tdclose >}}
+{{< tdopen >}}
+Lab
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Concert 3
+{{< tdclose >}}
+{{< tdopen >}}
+[Concert series: Neil Leonard and Robin Eubanks](./resolveuid/7c834f66e5e4bed51aebc96db67c8fe0)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Guest 3.2
+{{< tdclose >}}
+{{< tdopen >}}
+[Electronics student demonstrations]({{< baseurl >}}/resources/guest-artist-workshop-3)  
+Guest artist: Neil Leonard
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 11
+{{< tdclose >}}
+{{< tdopen >}}
+Flexology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 8
+{{< tdclose >}}
+{{< tdopen >}}
+Lab
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 12
+{{< tdclose >}}
+{{< tdopen >}}
+[Flexology student demonstrations]({{< baseurl >}}/resources/lecture-12)
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+MIT concert: Aardvark Jazz Orchestra, plus Tom Hall and the 21M.355 class
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 13
+{{< tdclose >}}
+{{< tdopen >}}
+Themes and intervals: "Blue Seven" (Sonny Rollins)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 14
+{{< tdclose >}}
+{{< tdopen >}}
+Themes and intervals
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 9
+{{< tdclose >}}
+{{< tdopen >}}
+Lab
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+MIT concert: MIT Festival Jazz Ensemble
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 15
+{{< tdclose >}}
+{{< tdopen >}}
+Toward the final project: overview and design
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Guest 4.1
+{{< tdclose >}}
+{{< tdopen >}}
+[Guest artists: Tim Ray and Eugene Friesen]({{< baseurl >}}/resources/guest-artist-workshop-4-1)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 10
+{{< tdclose >}}
+{{< tdopen >}}
+Lab
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Concert 4
+{{< tdclose >}}
+{{< tdopen >}}
+[Concert series: Tre Corda](./resolveuid/95b5fa537e719ad3675fe48e10b48f4a)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Guest 4.2
+{{< tdclose >}}
+{{< tdopen >}}
+[Guest artists: Tim Ray and Greg Hopkins]({{< baseurl >}}/resources/guest-artist-workshop-4-2)
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 16
+{{< tdclose >}}
+{{< tdopen >}}
+Preparation for final projects
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 11
+{{< tdclose >}}
+{{< tdopen >}}
+Lab
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 17
+{{< tdclose >}}
+{{< tdopen >}}
+Final projects
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 18
+{{< tdclose >}}
+{{< tdopen >}}
+Final projects
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations in class
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
