@@ -129,7 +129,7 @@ Aardvark Jazz Orchestra. "Flexology." _Trumpet Madness_. Leo Records, 2005.
 
 Morris, Butch. _Conduction #41_. Vol. 10 in _Testament: A Conduction Collection_. New World Records, 1995.
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Liner notes (PDF)](https://nwr-site-liner-notes.s3.amazonaws.com/80487.pdf)
+*   [Liner notes (PDF)](https://nwr-site-liner-notes.s3.amazonaws.com/80487.pdf)
 
 Soundpainting with Walter Thompson: OCW videos from _21M.342 Composing for Jazz Orchestra_
 
