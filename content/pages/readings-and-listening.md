@@ -133,9 +133,9 @@ Morris, Butch. _Conduction #41_. Vol. 10 in _Testament: A Conduction Collection_
 
 Soundpainting with Walter Thompson: OCW videos from _21M.342 Composing for Jazz Orchestra_
 
-*   [Classroom workshop](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/pages/video-and-audio-classes/lecture-21)
-*   [MIT Festival Jazz Orchestra workshop](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/pages/video-and-audio-classes/event-10)
-*   [Aardvark Jazz Orchestra concert](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/pages/video-and-audio-classes/spring-2009-event)
+*   [Classroom workshop](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/lecture-21)
+*   [MIT Festival Jazz Orchestra workshop](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/event-10)
+*   [Aardvark Jazz Orchestra concert](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/spring-2009-event)
 
 
 {{< tdclose >}}
